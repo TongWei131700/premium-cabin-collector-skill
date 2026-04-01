@@ -1,0 +1,26 @@
+{
+  "template": "premium",
+  "outputDir": "./output",
+  "title": "航司高舱信息展示",
+  "theme": {
+    "primaryColor": "#1a1a1a",
+    "accentColor": "#c9a962",
+    "backgroundColor": "#f5f5f5",
+    "cardBackground": "#ffffff",
+    "textPrimary": "#333333",
+    "textSecondary": "#666666"
+  },
+  "components": {
+    "showHeader": true,
+    "showFooter": true,
+    "showCompareTable": true,
+    "showServiceIcons": true
+  },
+  "responsive": {
+    "breakpoints": {
+      "mobile": 768,
+      "tablet": 1024,
+      "desktop": 1200
+    }
+  }
+}

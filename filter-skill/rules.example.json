@@ -1,0 +1,50 @@
+{
+  "rules": [
+    {
+      "name": "高舱位筛选",
+      "description": "筛选头等舱和商务舱",
+      "condition": "AND",
+      "filters": [
+        {
+          "field": "cabinCode",
+          "operator": "in",
+          "value": ["F", "A", "J", "C", "D", "I"]
+        }
+      ]
+    },
+    {
+      "name": "贵宾服务筛选",
+      "description": "筛选包含贵宾休息室和优先登机的仓位",
+      "condition": "AND",
+      "filters": [
+        {
+          "field": "services",
+          "operator": "contains",
+          "value": "贵宾休息室"
+        },
+        {
+          "field": "services",
+          "operator": "contains",
+          "value": "优先登机"
+        }
+      ]
+    },
+    {
+      "name": "价格区间筛选",
+      "description": "筛选价格在5000-20000之间的仓位",
+      "condition": "AND",
+      "filters": [
+        {
+          "field": "price",
+          "operator": "gt",
+          "value": 5000
+        },
+        {
+          "field": "price",
+          "operator": "lt",
+          "value": 20000
+        }
+      ]
+    }
+  ]
+}
