@@ -49,6 +49,8 @@ description: 航司高舱信息采集、筛选与展示系统，包含采集、�
 
 从 seatmaps.com 系统化采集航空公司机型资料。
 
+> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/8iL0Gv6uAxJuTQoZiRMzd3OTM7ZPl6hXrDY494WaeFc.mp4)
+
 **核心功能：**
 - 单航司/批量机型抓取
 - 自动下载并分类图片（6 类目录结构）
@@ -97,6 +99,8 @@ npm run filter -- --input ../output/航司数据.json --rules ./rules/premium.js
 ---
 
 ### 3. 展示技能 ([`display-skill/`](display-skill/SKILL.md))
+
+> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/Tn7dq3pCXh6DLvLeP5E0Q57Qx8h_1yWqSAiiYh0abHw.mp4)
 
 根据筛选后的数据自动生成美观的展示页面。
 

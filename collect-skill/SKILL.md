@@ -7,6 +7,8 @@ description: 抓取并整理航空公司座位图数据、机型配置、舱位�
 
 系统化收集航空公司高舱机型资料，并整理成可复用的 `FlightData/`（或用户指定）数据目录。
 
+> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/8iL0Gv6uAxJuTQoZiRMzd3OTM7ZPl6hXrDY494WaeFc.mp4)
+
 ## 技能包结构（标准封装）
 
 | 文件 / 目录 | 说明 |

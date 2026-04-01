@@ -1,11 +1,13 @@
 ---
-name: airline-cabin-display
+name: display-skill
 description: 根据筛选后的航司数据生成页面展示
 ---
 
 # 航司仓位页面展示
 
 根据筛选后的航司数据自动生成美观的展示页面，支持多种展示模板和自定义样式。
+
+> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/Tn7dq3pCXh6DLvLeP5E0Q57Qx8h_1yWqSAiiYh0abHw.mp4)
 
 ## 触发条件
 
