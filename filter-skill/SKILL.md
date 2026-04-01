@@ -1,5 +1,5 @@
 ---
-name: airline-cabin-filter
+name: filter-skill
 description: 根据规则筛选航司仓位信息，提取符合规则的数据
 ---
 
