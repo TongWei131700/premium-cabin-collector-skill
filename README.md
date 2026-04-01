@@ -24,6 +24,8 @@ airline-premium-cabin/
 
 自动从航司系统或 API 获取仓位信息，支持多渠道数据采集。
 
+> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/8iL0Gv6uAxJuTQoZiRMzd3OTM7ZPl6hXrDY494WaeFc.mp4)
+
 **核心功能：**
 - 单航司/批量采集
 - 定时自动采集
@@ -55,6 +57,8 @@ npm run filter -- --input ../collect-skill/output/data.json
 ### 3. 页面展示生成 ([`display-skill/`](display-skill/SKILL.md:1))
 
 根据筛选后的数据自动生成美观的展示页面，支持多种模板。
+
+> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/Tn7dq3pCXh6DLvLeP5E0Q57Qx8h_1yWqSAiiYh0abHw.mp4)
 
 **核心功能：**
 - 自动生成 HTML 页面
