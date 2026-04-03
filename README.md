@@ -2,6 +2,10 @@
 
 本项目提供航司高舱信息的一站式采集、筛选和展示解决方案，包含三个独立的 skill 模块。
 
+## 效果演示
+
+> 📹 **完整运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/6M14KlpxSMiY20P8k0ND3EfM6S9fUG-1obwHv9rBsZ8.mp4)
+
 ## 项目结构
 
 ```
