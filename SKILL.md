@@ -49,7 +49,7 @@ description: 航司高舱信息采集、筛选与展示系统，包含采集、�
 
 从 seatmaps.com 系统化采集航空公司机型资料。
 
-> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/8iL0Gv6uAxJuTQoZiRMzd3OTM7ZPl6hXrDY494WaeFc.mp4)
+> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/Bsog7tVppJAwmxdHt-hDuWjcocO72XwVtE3MZA0G4-8.mp4)
 
 **核心功能：**
 - 单航司/批量机型抓取

@@ -4,7 +4,7 @@
 
 ## 效果演示
 
-> 📹 **完整运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/6M14KlpxSMiY20P8k0ND3EfM6S9fUG-1obwHv9rBsZ8.mp4)
+> 📹 **完整运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/Bsog7tVppJAwmxdHt-hDuWjcocO72XwVtE3MZA0G4-8.mp4)
 
 ## 项目结构
 
@@ -28,7 +28,7 @@ airline-premium-cabin/
 
 自动从航司系统或 API 获取仓位信息，支持多渠道数据采集。
 
-> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/8iL0Gv6uAxJuTQoZiRMzd3OTM7ZPl6hXrDY494WaeFc.mp4)
+> 📹 **运行效果演示**：[查看视频](https://cloud.video.taobao.com/vod/Bsog7tVppJAwmxdHt-hDuWjcocO72XwVtE3MZA0G4-8.mp4)
 
 **核心功能：**
 - 单航司/批量采集
